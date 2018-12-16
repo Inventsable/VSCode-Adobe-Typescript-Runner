@@ -1,0 +1,1 @@
+{"compileOnSave":true,"compilerOptions":{"outFile":"compile.jsx","allowJs":true,"noLib":true,"types":["types-for-adobe/illustrator/2015.3"]},"files":["main.ts"],"exclude":["node_modules"]}
